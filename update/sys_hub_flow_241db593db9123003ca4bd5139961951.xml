@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>issue_approval</internal_name>
+        <label_cache>[{"name":"35d417f7-4dca-4a70-abec-51c407545b7a.table_name","label":"3.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"35d417f7-4dca-4a70-abec-51c407545b7a.record","label":"3.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"1a371822-9ffb-4b74-8e34-060215c72cf7.table_name","label":"2.1➛Issue Table","reference":"x_70701_safety_issue","reference_display":"Issue","type":"table_name","base_type":"table_name"},{"name":"1a371822-9ffb-4b74-8e34-060215c72cf7.record","label":"2.1➛Issue Record","reference":"x_70701_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"},{"name":"ee3f79fc-3578-4df9-857b-336ca7e58379.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"ee3f79fc-3578-4df9-857b-336ca7e58379.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"Updated_1.current.opened_by","label":"Trigger➛Issue Record➛Opened by","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","parent_table_name":"x_70701_safety_issue","column_name":"opened_by"},{"name":"Updated_1.current","label":"Trigger➛Issue Record","reference":"x_70701_safety_issue","reference_display":"Issue","type":"reference","base_type":"reference"},{"name":"c0873893-beeb-40f4-961f-640bffbe17a4.approval_state","label":"1➛Approval State","reference_display":"Approval State","type":"choice","base_type":"choice"}]</label_cache>
+        <latest_snapshot>0e4ef5d3db9123003ca4bd5139961948</latest_snapshot>
+        <master_snapshot>ee2ef1d3db9123003ca4bd51399619f4</master_snapshot>
+        <name>Issue approval</name>
+        <outputs/>
+        <remote_trigger_id>7e2e35d3db9123003ca4bd51399619ca</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 09:21:20</sys_created_on>
+        <sys_id>241db593db9123003ca4bd5139961951</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Issue approval</sys_name>
+        <sys_package display_value="Safety" source="x_70701_safety">2f917d97db5123003ca4bd513996192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">2f917d97db5123003ca4bd513996192b</sys_scope>
+        <sys_update_name>sys_hub_flow_241db593db9123003ca4bd5139961951</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-27 09:26:39</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=241db593db9123003ca4bd5139961951"/>
+    <sys_variable_value action="delete_multiple" query="document_key=241db593db9123003ca4bd5139961951"/>
+</record_update>

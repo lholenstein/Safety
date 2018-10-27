@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_context_config">
+    <cxs_context_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <cxs_searcher_config display_value="Knowledge only">d51b7504eb53210070a9666cd206feff</cxs_searcher_config>
+        <default_config>false</default_config>
+        <name>Safety issue deflection</name>
+        <short_description>Safety deflection context</short_description>
+        <sys_class_name>cxs_context_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 09:31:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b36fb517db9123003ca4bd5139961935</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety issue deflection</sys_name>
+        <sys_package display_value="Safety" source="x_70701_safety">2f917d97db5123003ca4bd513996192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">2f917d97db5123003ca4bd513996192b</sys_scope>
+        <sys_update_name>cxs_context_config_b36fb517db9123003ca4bd5139961935</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-27 09:31:55</sys_updated_on>
+        <wildcard_search_active>false</wildcard_search_active>
+    </cxs_context_config>
+</record_update>

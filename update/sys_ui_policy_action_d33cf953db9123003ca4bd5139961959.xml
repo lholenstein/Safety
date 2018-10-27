@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>project</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-27 09:17:53</sys_created_on>
+        <sys_id>d33cf953db9123003ca4bd5139961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>project</sys_name>
+        <sys_package display_value="Safety" source="x_70701_safety">2f917d97db5123003ca4bd513996192b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">2f917d97db5123003ca4bd513996192b</sys_scope>
+        <sys_update_name>sys_ui_policy_action_d33cf953db9123003ca4bd5139961959</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-27 09:17:53</sys_updated_on>
+        <table>x_70701_safety_issue</table>
+        <ui_policy display_value="Hide project for small issues">ab1c7953db9123003ca4bd51399619df</ui_policy>
+        <visible>false</visible>
+    </sys_ui_policy_action>
+</record_update>
